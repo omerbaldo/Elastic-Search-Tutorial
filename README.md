@@ -1,5 +1,5 @@
 # Elastic-Search-Tutorial
-Elastic search tutorial. Elastic Search is a fast data base traversal tool used by:
+Elastic search tutorial I completed with a teammate. Elastic Search is a fast data base traversal tool used by:
     Netflix
     Stack Overflow
     LinkedIn
